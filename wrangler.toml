@@ -1,0 +1,5 @@
+name = "my-worker"
+account_id = "5020b88ad29ebd176b02a76c360e312e"
+type = "webpack"
+workers_dev = true
+zone_id="d5d34f68c4ef933431a85ec3275f3ea8"
