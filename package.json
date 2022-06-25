@@ -15,7 +15,7 @@
     "prettier": "^1.18.2"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "require": "^2.4.20"
   }
 }
